@@ -1,6 +1,6 @@
 /*!
- * get-callback | MIT (c) Shinnosuke Watanabe
- * https://github.com/shinnn/get-callback.js
+ * optback.js | MIT (c) Shinnosuke Watanabe
+ * https://github.com/shinnn/optback.js
 */
 
 window.optback = function optback(args) {
