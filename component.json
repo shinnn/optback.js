@@ -1,0 +1,26 @@
+{
+  "name": "optback",
+  "version": "1.0.0",
+  "description": "Extract options and a callback function from arguments",
+  "keywords": [
+    "callback",
+    "function",
+    "argument",
+    "args",
+    "option",
+    "options",
+    "parse"
+  ],
+  "repository": "shinnn/optback.js",
+  "main": "optback-cjs.js",
+  "scripts": [
+    "optback-cjs.js"
+  ],
+  "files": [
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "shinnn/get-callback.js": "*"
+  }
+}

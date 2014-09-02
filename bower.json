@@ -1,0 +1,41 @@
+{
+  "name": "optback",
+  "version": "1.0.0",
+  "description": "Extract options and a callback function from arguments",
+  "keywords": [
+    "callback",
+    "function",
+    "argument",
+    "args",
+    "option",
+    "options",
+    "parse"
+  ],
+  "main": "./optback.js",
+  "homepage": "https://github.com/shinnn/optback.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/optback.js.git"
+  },
+  "authors": [
+    {
+      "name": "Shinnosuke Watanabe",
+      "url": "https://github.com/shinnn"
+    }
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "coverage",
+    "node_modules",
+    "test.js",
+    "optback-cjs.js",
+    "appveyor.yml",
+    "package.json",
+    "component.json"
+  ],
+  "dependencies": {
+    "get-callback": "~1.0.0"
+  }
+}
